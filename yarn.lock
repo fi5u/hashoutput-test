@@ -6057,9 +6057,9 @@ webpack-merge@^4.1.2:
   dependencies:
     lodash "^4.17.5"
 
-webpack-plugin-hash-output@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/webpack-plugin-hash-output/-/webpack-plugin-hash-output-2.0.0.tgz#492d5a49a2987337353ce7b8bda9cc29a32d577f"
+webpack-plugin-hash-output@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/webpack-plugin-hash-output/-/webpack-plugin-hash-output-2.1.0.tgz#b09fa7a1a9cafc9fe956f22662fb29c58296b2b4"
 
 webpack-sources@^1.0.1, webpack-sources@^1.1.0:
   version "1.1.0"
